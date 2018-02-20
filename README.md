@@ -5,6 +5,10 @@ Copyright (c) 2018-2028 HumanityLink Developers
 
 [ANN] HumanityLink - SHA256/MYSQL [POW/POS-2022]
 
+
+Windows wallet here:http://s000.tinyupload.com/index.php?file_id=03623441708327089853
+
+
 Intro
 ---------------------
 HumanityLink is a decentralized commonwealth database system with a total target of 8 Billion coins to be issued by 2025.
