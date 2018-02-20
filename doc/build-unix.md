@@ -12,17 +12,25 @@ See [readme-qt.md](readme-qt.md) for instructions on building humanitylink-Qt, t
 Basic Instructions:
 
 sudo chmod -R 777 ~/humanitylink/
+
 cd humanitylink/src/leveldb
+
 sudo make libleveldb.a libmemenv.a
 
 cd humanitylink/src/
+
 mkdir obj
+
 make -f makefile.unix USE_UPNP=1
 
 cd humanitylink
+
 sudo chmod -R 777 ~/humanitylink/
+
 sudo qmake
+
 sudo make
+
 //enjoy!
 
 
