@@ -5,10 +5,12 @@ Some notes on how to build humanitylink in Unix.
 To Build
 ---------------------
 
-	cd src/
-	make -f makefile.unix		# Headless humanitylink
+
 
 See [readme-qt.md](readme-qt.md) for instructions on building humanitylink-Qt, the graphical user interface.
+
+
+
 
 Dependencies
 ---------------------
