@@ -141,7 +141,7 @@ sudo make libleveldb.a libmemenv.a
 
 sudo chmod -R 777 ~/humanitylink/
 cd humanitylink/src
-cd
+mkdir obj
 make -f makefile.unix USE_UPNP=1
 
 sudo chmod -R 777 ~/humanitylink/
