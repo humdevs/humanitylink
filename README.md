@@ -1,4 +1,4 @@
-HumanityLink 0.8.2 BETA 
+HumanityLink 0.8.2
 ====================
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2018-2028 HumanityLink Developers
