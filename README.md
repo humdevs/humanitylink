@@ -109,9 +109,9 @@ https://www.virustotal.com/#/file/4785a8fd2aed979f7d5683eb09bdff5a90a2f4bb5dc7cb
 
 Team info:
 
-Jake K.   - Dev.1 Cpp   + java - Seatle
+Jake K.   - Dev.1 Cpp   + java - Seattle
 
-Neil O.   - Dev.2 Cpp   + css  - Seatle
+Neil O.   - Dev.2 Cpp   + css  - Seattle
 
 Stefan S. - Dev.3 Html  + graphics + qt - Oslo
 
@@ -134,7 +134,7 @@ linux Os. Follow the installation guide for ubuntu below, it should be only copy
 of the wallet yet so it's not your website that's not syncing.
 
 -The last nodes will be going live right now and should be online during the announcement.
-Currently there are 2 hard nodes with 1gb/s connection, 1 in Seoul and 1 in Seatle.
+Currently there are 2 hard nodes with 1gb/s connection, 1 in Seoul and 1 in Seattle.
 There are 4 hard nodes with 100mb/s connection, Oslo, Jakarta, Montreal and Sao Paolo. 
 We are planning on adding 1 more 1gb/s node in Europe and 5 more 100mb/s nodes worldwide.
 
