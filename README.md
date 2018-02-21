@@ -72,7 +72,9 @@ How will the POS rate be calculated to maintain even distribution:
  dt
  
  N=population size
+ 
  a*N=birth rate
+ 
  b-n^2=death rate
  
  
@@ -86,9 +88,13 @@ https://www.virustotal.com/#/file/4785a8fd2aed979f7d5683eb09bdff5a90a2f4bb5dc7cb
 
 Team info:
 Jake K.   - Dev.1 Cpp   + java - Seatle
+
 Neil O.   - Dev.2 Cpp   + css  - Seatle
+
 Stefan S. - Dev.3 Html  + graphics + qt - Oslo
+
 Faizal H. - Dev.4 mysql + network admin - Jakarta
+
 Ki Son J. - Dev.5 mysql + nodes manager - Seoul
 
 
