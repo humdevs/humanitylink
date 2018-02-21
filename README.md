@@ -18,6 +18,7 @@ with the help of a P2P POW and Future POS network to check for double-spending.
 
 
 Specifications
+--------------------------
 
 -Name: HumanityLink
 
