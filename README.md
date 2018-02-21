@@ -18,27 +18,46 @@ with the help of a P2P POW and Future POS network to check for double-spending.
 
 
 Specifications
+
 -Name: HumanityLink
+
 -Unit: HUM
+
 -Algorithm: SHA-256
+
 -Proof: POW / POS-2022
+
 -Total Coins: 8,000,000,000 - Human Population Estimate by 2025
 
+
 -POW Total Blocks: 2,500,000
+
 -POW Reward: 10,000 coins - 5000 coins 2nd Year - 2500 coins 3rd Year - 1250 coins 4th Year..
+
 -POW Spacing: 2 Minutes
+
 -POW Retarget: 4 Minutes - Average Hashrate of 2 last blocks divided by 2
+
 -POW Halving: Every 250,000 blocks - aprox. 330 days
 
+
 -POS Activation: Block 1,000,000 - Aprox. August 2022
+
 -POS Reward: 12% Annual - 1% Monthly
+
 -POS Minimum Stake Age: 120 Blocks - 2 Hours
+
 -Pos Maximum Stake Age: Unlimited
 
+
 -Transaction Network Speed: 1 Second
+
 -Transaction Network Confirmation: ~2 Minutes
+
 -Transaction Maturity: 6 Blocks
+
 -Mining Coinbase Maturity: 60 Blocks
+
 
 -Small Blockchain with quick install & sync
 - 2 x 1gb/s nodes & 4 x 100mb/s node always online
@@ -87,6 +106,7 @@ https://www.virustotal.com/#/file/4785a8fd2aed979f7d5683eb09bdff5a90a2f4bb5dc7cb
 
 
 Team info:
+
 Jake K.   - Dev.1 Cpp   + java - Seatle
 
 Neil O.   - Dev.2 Cpp   + css  - Seatle
@@ -119,6 +139,7 @@ We are planning on adding 1 more 1gb/s node in Europe and 5 more 100mb/s nodes w
 -Nodes are hardcoded already, and the newest nodes will be listed and added in the list below.
 
 The name of the configuration file is: humanitylink.conf
+
 
 addnode=192.243.100.105
 addnode=192.250.236.182
