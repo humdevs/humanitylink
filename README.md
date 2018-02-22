@@ -1,6 +1,5 @@
 HumanityLink 0.8.2F
 ====================
-Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2018-2028 HumanityLink Developers
 
 [ANN] HumanityLink - SHA256/MYSQL [POW/POS-2022]
@@ -145,12 +144,15 @@ The name of the configuration file is: humanitylink.conf
 
 
 addnode=192.243.100.105
+
 addnode=192.250.236.182
+
 addnode=37.97.242.80
 
 
 -We recommend adding at least 3 nodes for faster wallet synchronization.
 You can either open the debug console and add each one as a command. For example write: addnode=192.243.100.105 press Enter, addnode=192.243.100.105 press Enter, etc.
+
 Or by creating a file named humanitylink.conf, pasting the above nodes as is including the addnode= in the front of each IP. And place that file in
 C:/users/YOURUSERNAME/AppData/Roaming/humanitylink. Usually AppData is hidden so enable hidden files to find it. Also make sure your conf file is not saved as a .txt file.
 
@@ -185,8 +187,10 @@ qmake
 sudo chmod -R 777 ~/humanitylink/
 make
 
+
 //For vps with less than 1Gb RAM use this make command instead;
 make -f makefile.unix USE_UPNP=1 CXXFLAGS="--param ggc-min-expand=1 --param ggc-min-heapsize=32768"
+
 
 Block reward and premine code of 0.625%:
 
@@ -210,7 +214,7 @@ static const int64 nTargetSpacing = 2 * 60;
 
 
 
-- Versions used in this release:
+Versions used in this release:
 -  GCC           4.3.3
 -  OpenSSL       1.0.1c
 -  Berkeley DB   4.8.30.NC
@@ -222,7 +226,6 @@ static const int64 nTargetSpacing = 2 * 60;
  
  
  
-F.A.Q.
 
 Setup
 ---------------------
