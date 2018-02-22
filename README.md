@@ -127,7 +127,7 @@ Info for developers:
 -P2P Port:33759
 -RPC Port:33760
 
--The linux wallet is the most up to date wallet with constant code and graphic updates. To use the latest wallet install it from the github source on a linux 
+-The linux wallet is the most up to date wallet with often code and graphic updates. To use the latest wallet install it from the github source on a 
 linux Os. Follow the installation guide for ubuntu below, it should be only copy paste even for beginners. For any problems leave a comment on this thread with your error.
 
 -If you are making an explorer or a pool and you are trying to get the network hashrate the command gethashrate doesn't work with this version
@@ -145,9 +145,10 @@ The name of the configuration file is: humanitylink.conf
 
 addnode=192.243.100.105
 addnode=192.250.236.182
+addnode=37.97.242.80
 
 
--We recommend adding at least 5 nodes for faster wallet synchronization.
+-We recommend adding at least 3 nodes for faster wallet synchronization.
 You can either open the debug console and add each one as a command. For example write: addnode=192.243.100.105 press Enter, addnode=192.243.100.105 press Enter, etc.
 Or by creating a file named humanitylink.conf, pasting the above nodes as is including the addnode= in the front of each IP. And place that file in
 C:/users/YOURUSERNAME/AppData/Roaming/humanitylink. Usually AppData is hidden so enable hidden files to find it. Also make sure your conf file is not saved as a .txt file.
