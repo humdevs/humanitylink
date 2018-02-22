@@ -124,8 +124,9 @@ Team info:
 Info for developers:
 ----------------------------
  
--P2P Port:33759
--RPC Port:33760
+-P2P Port: 33759
+
+-RPC Port: 33760
 
 -The linux wallet is the most up to date wallet with often code and graphic updates. To use the latest wallet install it from the github source on a 
 linux Os. Follow the installation guide for ubuntu below, it should be only copy paste even for beginners. For any problems leave a comment on this thread with your error.
