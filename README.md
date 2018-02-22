@@ -109,15 +109,15 @@ https://www.virustotal.com/#/file/4785a8fd2aed979f7d5683eb09bdff5a90a2f4bb5dc7cb
 
 Team info:
 
-Jake K.   - Dev.1 Cpp   + java - Seattle
+[Jake K.   - Dev.1] - Cpp   + java (Seattle)
 
-Neil O.   - Dev.2 Cpp   + css  - Seattle
+[Neil O.   - Dev.2] - Cpp   + css  (Seattle)
 
-Stefan S. - Dev.3 Html  + graphics + qt - Oslo
+[Stefan S. - Dev.3] - Html  + graphics + qt/cpp (Oslo)
 
-Faizal H. - Dev.4 mysql + network admin - Jakarta
+[Faizal H. - Dev.4] - mysql + network admin (Jakarta)
 
-Ki Son J. - Dev.5 mysql + nodes manager - Seoul
+[Ki Son J. - Dev.5] - mysql + nodes manager (Seoul)
 
 
  
