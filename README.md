@@ -2,7 +2,9 @@ HumanityLink 0.8.2F
 ====================
 Copyright (c) 2018-2028 HumanityLink Developers
 
-[ANN] HumanityLink - SHA256/MYSQL [POW/POS-2022]
+
+
+Bitcointalk ANN:  https://bitcointalk.org/index.php?topic=3014641
 
 Explorer:  http://192.250.236.182:3001/
 
@@ -16,7 +18,7 @@ Intro
 HumanityLink is a decentralized commonwealth database system with a total target of 8 Billion coins to be issued by 2025.
 An MySQL database will be connected to the blockchain and 
 document the evolution of human population and accomplishments. Users hold the keys to their own coins and transact directly
-with the help of a P2P POW and Future POS network to check for double-spending. 
+with the help of a P2P POW and Future POS network to check for double-spending.
 
 
 Specifications
@@ -30,30 +32,30 @@ Specifications
 
 -Proof: POW / POS-2022
 
--Total Coins: 8,000,000,000 - Human Population Estimate by 2025
+-Total Coins: 8,000,000,000  //Human Population Estimate by 2025
 
 
 -POW Total Blocks: 2,500,000
 
--POW Reward: 10,000 coins - 5000 coins 2nd Year - 2500 coins 3rd Year - 1250 coins 4th Year..
+-POW Reward: 10,000 coins - 5000 coins 2nd Year - 2500 coins 3rd Year - 1250 coins 4th Year
 
 -POW Spacing: 2 Minutes
 
--POW Retarget: 4 Minutes - Average Hashrate of 2 last blocks divided by 2
+-POW Retarget: 4 Minutes - //Average Hashrate of 2 last blocks divided by 2
 
--POW Halving: Every 250,000 blocks - aprox. 330 days
+-POW Halving: Every 250,000 blocks - //Aprox. 330 days
 
 
--POS Activation: Block 1,000,000 - Aprox. August 2022
+-POS Activation: Block 1,000,000 - //Aprox. August 2022
 
 -POS Reward: 12% Annual - 1% Monthly
 
--POS Minimum Stake Age: 120 Blocks - 2 Hours
+-POS Minimum Stake Age: 120 Blocks - //2 Hours
 
 -Pos Maximum Stake Age: Unlimited
 
 
--Transaction Network Speed: 1 Second
+-Transaction Network Speed: ~1 Second
 
 -Transaction Network Confirmation: ~2 Minutes
 
@@ -70,7 +72,7 @@ Specifications
 Notes:
 ---------------
 
--Premine of 0.625% at block 1(see code below) + first ~800 blocks to start up the blockchain, connect and sync all the hard nodes worldwide, setup security checkpoints,
+-Premine of 0.625% at block 1(see code below) + first ~600 blocks to start up the blockchain, connect and sync all the hard nodes worldwide, setup security checkpoints,
 synchronize explorer and connect the mining pool.
 
 -All coins will be used for the faucet, and exchanges fund.
