@@ -72,7 +72,7 @@ Specifications
 Notes:
 ---------------
 
--Premine of 0.625% at block 1(see code below) + first ~600 blocks to start up the blockchain, connect and sync all the hard nodes worldwide, setup security checkpoints,
+-Premine of 0.625% at block 1 (see code below) + first ~500 blocks to start up the blockchain, connect and sync all the hard nodes worldwide, setup security checkpoints,
 synchronize explorer and connect the mining pool.
 
 -All coins will be used for the faucet, and exchanges fund.
