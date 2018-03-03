@@ -1,9 +1,7 @@
+
 Building humanitylink
+-----------------------
 
-See doc/readme-qt.md for instructions on building humanitylink-Qt,
+See readme-qt.md for instructions on building humanitylink-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of humanitylink.
-
-See doc/build-*.md for instructions on building humanitylinkd,
-the intended-for-services, no-graphical-interface, reference
 implementation of humanitylink.
