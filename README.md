@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/wagerr/wagerr.svg?branch=master)](https://travis-ci.org/wagerr/wagerr)
+[![Snap Status](https://build.snapcraft.io/badge/wagerr/wagerr.svg)](https://build.snapcraft.io/user/wagerr/wagerr)
+[![GitHub license](https://img.shields.io/github/license/wagerr/wagerr.svg)](https://github.com/wagerr/wagerr/blob/master/COPYING)
+
 HumanityLink 0.8.2F
 ====================
 Copyright (c) 2018-2028 HumanityLink Developers
