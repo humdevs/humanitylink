@@ -4,12 +4,12 @@
 
 HumanityLink 0.8.2F 
 ====================
+
+------------------------------------------
+ *Not in development, look for V2.0.1F 
+--------------------------------------------
+
 Copyright (c) 2018-2028 HumanityLink Developers
-
- ***Not in development, look for V2.0.1F
- 
-
-Pool#1:  http://192.243.100.105:3757/
 
 Bitcointalk ANN:  https://bitcointalk.org/index.php?topic=3014641
 
